@@ -118,7 +118,7 @@ A list of tools and technologies in which I have developed knowledge, experience
 
 ## Courses
 
-- [HTML and CSS](https://github.com/alexbleggijrr/html-css-course-udemy) · [Course at Udemy](https://www.notion.so/35b637d3f69d80918386cb1806f0a9b9?v=35b637d3f69d80e794f4000c5ddfadb2)
+- [HTML and CSS · Course at Udemy](https://www.notion.so/HTML-and-CSS-Course-at-Udemy-35b637d3f69d80e1b2fee9394aa39f4c?source=copy_link)
 
 ## Certificates
 
