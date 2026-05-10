@@ -31,16 +31,16 @@ Outside of work, I'm passionate about digital art, music, and gaming. I enjoy di
 
 I focus on building scalable **Design Systems**, **reusable UI kits**, and crafting **Interactions** that enhance usability and ensure a consistent experience across all products and platforms.
 
-## Knowledge
+## [Knowledge](https://www.notion.so/35b637d3f69d80918386cb1806f0a9b9?v=35c637d3f69d80bca9c9000c7bc811b0&source=copy_link)
 
 A list of tools and technologies in which I have developed knowledge, experience, and proficiency.
 
 ### Core:
 
-- [`HTML`](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [`CSS`](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [`HTML`](https://www.notion.so/HTML-35c637d3f69d804bbd35d9a1badcff32?source=copy_link)
+- [`CSS`](https://www.notion.so/CSS-35c637d3f69d80b29388e640c5d25124?source=copy_link)
 - [`Web Accessibility`](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
-- [`JavaScript`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [`JavaScript`](https://www.notion.so/JavaScript-35c637d3f69d80e88d9ad5455ec1e091?source=copy_link)
 - [`Web Components`](https://www.webcomponents.org/)
 
 ### JavaScript Compilers/Libraries/Frameworks:
@@ -71,8 +71,8 @@ A list of tools and technologies in which I have developed knowledge, experience
 
 ### Linters:
 
-- [`EditorConfig`](https://editorconfig.org)
-- [`Prettier`](https://prettier.io)
+- [`EditorConfig`](https://www.notion.so/EditorConfig-35c637d3f69d8077b753f9799813d235?source=copy_link)
+- [`Prettier`](https://www.notion.so/Prettier-35c637d3f69d804a8abfe132a166570e?source=copy_link)
 - [`Stylelint`](https://stylelint.io)
 - [`ESLint`](https://eslint.org)
 - [`Biome`](https://biomejs.dev)
@@ -113,18 +113,18 @@ A list of tools and technologies in which I have developed knowledge, experience
 - [`Figma`](https://www.figma.com)
 - [`Tokens Studio`](https://tokens.studio/)
 
-## Training
+## [Training](https://www.notion.so/35b637d3f69d80918386cb1806f0a9b9?v=35b637d3f69d806b82d9000cfdec55b6&source=copy_link)
 
-## Courses
+## [Courses](https://www.notion.so/35b637d3f69d80918386cb1806f0a9b9?v=35b637d3f69d80e794f4000c5ddfadb2&source=copy_link)
 
 - [HTML and CSS Course at Udemy](https://www.notion.so/HTML-and-CSS-Course-at-Udemy-35b637d3f69d80e1b2fee9394aa39f4c?source=copy_link)
 
-## Certificates
+## [Certificates](https://www.notion.so/35b637d3f69d80918386cb1806f0a9b9?v=35b637d3f69d800aaf64000c19a65d28&source=copy_link)
 
 - [General English · Certificate issued by Navitas English, Sydney, Australia]()
 - [Power English Evening · Certificate issued by Navitas English, Sydney, Australia]()
 
-## Projects
+## [Projects](https://www.notion.so/35b637d3f69d80918386cb1806f0a9b9?v=35b637d3f69d80419646000c42c5ab01&source=copy_link)
 
 ### Personal Projects:
 
