@@ -15,7 +15,6 @@ Currently, I lead a multidisciplinary team at [Medgrupo](https://medgrupo.com.br
 - [`Angular`](https://angular.dev/)
 - [`React Native`](https://reactnative.dev/)
 - [`Sass`](https://sass-lang.com/)
-- [`Tailwind`](https://tailwindcss.com/)
 - [`Nativewind`](https://www.nativewind.dev/)
 - [`Ionic`](https://ionicframework.com/docs/)
 - [`Angular Material`](https://material.angular.dev/)
