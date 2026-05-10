@@ -58,7 +58,6 @@ A list of tools and technologies in which I have developed knowledge, experience
 ### CSS Processors:
 
 - [`Less`](https://lesscss.org)
-- [`Stylus`](https://stylus-lang.com)
 - [`Sass`](https://sass-lang.com)
 - [`PostCSS`](https://postcss.org)
 
@@ -67,7 +66,6 @@ A list of tools and technologies in which I have developed knowledge, experience
 - [`npm Build Scripts`](https://docs.npmjs.com/cli/v8/using-npm/scripts)
 - [`Grunt.js`](https://gruntjs.com)
 - [`Gulp.js`](https://gulpjs.com)
-- [`Parcel.js`](https://parceljs.org)
 - [`Rollup.js`](https://rollupjs.org/guide/en)
 - [`Webpack.js`](https://webpack.js.org)
 - [`Vite.js`](https://vitejs.dev)
@@ -114,12 +112,18 @@ A list of tools and technologies in which I have developed knowledge, experience
 - [`Adobe Photoshop`](https://www.adobe.com/br/products/photoshop.html)
 - [`Adobe Illustrator`](https://www.adobe.com/br/products/illustrator.html)
 - [`Figma`](https://www.figma.com)
+- [`Tokens Studio`](https://tokens.studio/)
 
 ## Training
 
 ## Courses
 
+- [HTML and CSS](https://github.com/alexbleggijrr/html-css-course-udemy) · [Course at Udemy](https://www.notion.so/35b637d3f69d80918386cb1806f0a9b9?v=35b637d3f69d80e794f4000c5ddfadb2)
+
 ## Certificates
+
+- [General English · Certificate issued by Navitas English, Sydney, Australia]()
+- [Power English Evening · Certificate issued by Navitas English, Sydney, Australia]()
 
 ## Projects
 
