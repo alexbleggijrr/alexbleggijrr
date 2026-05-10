@@ -117,7 +117,7 @@ A list of tools and technologies in which I have developed knowledge, experience
 
 ## Courses
 
-- [HTML and CSS · Course at Udemy](https://www.notion.so/HTML-and-CSS-Course-at-Udemy-35b637d3f69d80e1b2fee9394aa39f4c?source=copy_link)
+- [HTML and CSS Course at Udemy](https://www.notion.so/HTML-and-CSS-Course-at-Udemy-35b637d3f69d80e1b2fee9394aa39f4c?source=copy_link)
 
 ## Certificates
 
