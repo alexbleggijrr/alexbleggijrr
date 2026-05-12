@@ -31,9 +31,13 @@ Outside of work, I'm passionate about digital art, music, and gaming. I enjoy di
 
 I focus on building scalable **Design Systems**, **reusable UI kits**, and crafting **Interactions** that enhance usability and ensure a consistent experience across all products and platforms.
 
-## [Knowledge](https://www.notion.so/35b637d3f69d80918386cb1806f0a9b9?v=35c637d3f69d80bca9c9000c7bc811b0&source=copy_link)
+## [Knowledge](https://www.notion.so/35b637d3f69d80918386cb1806f0a9b9?pvs=21)
 
 A list of tools and technologies in which I have developed knowledge, experience, and proficiency.
+
+### Core:
+
+- [`Design`](https://www.notion.so/Design-HTML-and-CSS-Course-at-Udemy-35b637d3f69d80e1b2fee9394aa39f4c?source=copy_link)
 
 ### Core:
 
@@ -113,18 +117,18 @@ A list of tools and technologies in which I have developed knowledge, experience
 - [`Figma`](https://www.figma.com/)
 - [`Tokens Studio`](https://tokens.studio/)
 
-## [Training](https://www.notion.so/35b637d3f69d80918386cb1806f0a9b9?v=35b637d3f69d806b82d9000cfdec55b6&source=copy_link)
+## [Training](https://www.notion.so/35b637d3f69d80918386cb1806f0a9b9?pvs=21)
 
-## [Courses](https://www.notion.so/35b637d3f69d80918386cb1806f0a9b9?v=35b637d3f69d80e794f4000c5ddfadb2&source=copy_link)
+## [Courses](https://www.notion.so/35b637d3f69d80918386cb1806f0a9b9?pvs=21)
 
 - [Design, HTML and CSS Course at Udemy](https://www.notion.so/Design-HTML-and-CSS-Course-at-Udemy-35b637d3f69d80e1b2fee9394aa39f4c?pvs=21)
 
-## [Certificates](https://www.notion.so/35b637d3f69d80918386cb1806f0a9b9?v=35b637d3f69d800aaf64000c19a65d28&source=copy_link)
+## [Certificates](https://www.notion.so/35b637d3f69d80918386cb1806f0a9b9?pvs=21)
 
 - [General English · Certificate issued by Navitas English, Sydney, Australia](https://www.notion.so/Alex-Bleggi-35c637d3f69d80bca7f3f0e510843977?pvs=21)
 - [Power English Evening · Certificate issued by Navitas English, Sydney, Australia](https://www.notion.so/Alex-Bleggi-35c637d3f69d80bca7f3f0e510843977?pvs=21)
 
-## [Projects](https://www.notion.so/35b637d3f69d80918386cb1806f0a9b9?v=35b637d3f69d80419646000c42c5ab01&source=copy_link)
+## [Projects](https://www.notion.so/35b637d3f69d80918386cb1806f0a9b9?pvs=21)
 
 ### Personal Projects:
 
