@@ -31,7 +31,7 @@ Outside of work, I'm passionate about digital art, music, and gaming. I enjoy di
 
 I focus on building scalable **Design Systems**, **reusable UI kits**, and crafting **Interactions** that enhance usability and ensure a consistent experience across all products and platforms.
 
-## [Knowledge](https://www.notion.so/35b637d3f69d80918386cb1806f0a9b9?pvs=21)
+## [Knowledge](https://www.notion.so/35b637d3f69d80918386cb1806f0a9b9?v=35c637d3f69d80bca9c9000c7bc811b0&source=copy_link)
 
 A list of tools and technologies in which I have developed knowledge, experience, and proficiency.
 
