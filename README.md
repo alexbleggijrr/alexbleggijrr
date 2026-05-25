@@ -6,7 +6,7 @@ Currently, I lead a multidisciplinary team at [Medgrupo](https://medgrupo.com.br
 
 ### Currently studying:
 
-- `JavaScript Design Patterns`
+- [`JavaScript Design Patterns`](https://www.oreilly.com/library/view/learning-javascript-design/9781098139865/)
 
 ### Currently working with:
 
