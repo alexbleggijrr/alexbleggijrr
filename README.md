@@ -117,19 +117,10 @@ A list of tools and technologies in which I have developed knowledge, experience
 - [`Figma`](https://www.figma.com/)
 - [`Tokens Studio`](https://tokens.studio/)
 
-## [Training](https://www.notion.so/35b637d3f69d80918386cb1806f0a9b9?pvs=21)
-
 ## [Courses](https://www.notion.so/35b637d3f69d80918386cb1806f0a9b9?pvs=21)
 
 - [Design, HTML and CSS Course at Udemy](https://www.notion.so/Design-HTML-and-CSS-Course-at-Udemy-35b637d3f69d80e1b2fee9394aa39f4c?pvs=21)
-
-## [Certificates](https://www.notion.so/35b637d3f69d80918386cb1806f0a9b9?pvs=21)
-
 - [General English · Certificate issued by Navitas English, Sydney, Australia](https://www.notion.so/Alex-Bleggi-35c637d3f69d80bca7f3f0e510843977?pvs=21)
 - [Power English Evening · Certificate issued by Navitas English, Sydney, Australia](https://www.notion.so/Alex-Bleggi-35c637d3f69d80bca7f3f0e510843977?pvs=21)
 
 ## [Projects](https://www.notion.so/35b637d3f69d80918386cb1806f0a9b9?pvs=21)
-
-### Personal Projects:
-
-### Course Projects:
