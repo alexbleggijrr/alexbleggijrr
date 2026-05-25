@@ -1,4 +1,4 @@
-# Alex Bleggi
+# [Alex Bleggi](https://www.notion.so/Alex-Bleggi-35c637d3f69d80bca7f3f0e510843977)
 
 Hi there! 👋 I'm Alex, a front-end developer with 12+ years of experience building digital products for the web. I specialize in UI/UX and Design Systems, bridging design and development to create scalable, cohesive, and intuitive interfaces.
 
