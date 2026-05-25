@@ -120,7 +120,6 @@ A list of tools and technologies in which I have developed knowledge, experience
 ## [Courses](https://www.notion.so/35b637d3f69d80918386cb1806f0a9b9?pvs=21)
 
 - [Design, HTML and CSS Course at Udemy](https://www.notion.so/Design-HTML-and-CSS-Course-at-Udemy-35b637d3f69d80e1b2fee9394aa39f4c?pvs=21)
-- [General English · Certificate issued by Navitas English, Sydney, Australia](https://www.notion.so/Alex-Bleggi-35c637d3f69d80bca7f3f0e510843977?pvs=21)
-- [Power English Evening · Certificate issued by Navitas English, Sydney, Australia](https://www.notion.so/Alex-Bleggi-35c637d3f69d80bca7f3f0e510843977?pvs=21)
+- [English Course Navitas English, Sydney, Australia](https://www.notion.so/English-Course-at-Navitas-English-Sydney-Australia-36b637d3f69d80b6ae7cef5a6a6eb2d3?source=copy_link)
 
 ## [Projects](https://www.notion.so/35b637d3f69d80918386cb1806f0a9b9?pvs=21)
