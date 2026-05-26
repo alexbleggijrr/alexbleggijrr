@@ -2,7 +2,7 @@
 
 Hi there! 👋 I'm Alex, a front-end developer with 12+ years of experience building digital products for the web. I specialize in UI/UX and Design Systems, bridging design and development to create scalable, cohesive, and intuitive interfaces.
 
-Currently, I lead a multidisciplinary team at [Medgrupo](https://medgrupo.com.br/), where I define Design Systems, develop reusable UI kits, and craft interaction patterns to ensure a consistent, high-quality user experience across products and platforms.
+Currently, I lead a multidisciplinary team of 4 designers and 4 front-end developers at [Medgrupo](https://medgrupo.com.br/), where I define Design Systems, develop reusable UI kits, and craft interaction patterns to ensure a consistent, high-quality user experience across products and platforms.
 
 ### Currently studying:
 
