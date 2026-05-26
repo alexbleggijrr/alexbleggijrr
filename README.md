@@ -53,9 +53,9 @@ A list of tools and technologies in which I have developed knowledge, experience
 - [`Angular.js`](https://angularjs.org/)
 - [`TypeScript`](https://www.typescriptlang.org/)
 - [`Stencil.js`](https://stenciljs.com/)
-- [`React.js`](https://reactjs.org/)
-- [`Vue.js`](https://vuejs.org/)
 - [`Angular`](https://angular.io/)
+- [`Vue.js`](https://vuejs.org/)
+- [`React.js`](https://reactjs.org/)
 - [`React Native`](https://reactnative.dev/)
 
 ### CSS Processors:
@@ -67,7 +67,6 @@ A list of tools and technologies in which I have developed knowledge, experience
 ### Build Tools/Bundlers:
 
 - [`npm Build Scripts`](https://docs.npmjs.com/cli/v8/using-npm/scripts)
-- [`Grunt.js`](https://gruntjs.com/)
 - [`Gulp.js`](https://gulpjs.com/)
 - [`Rollup.js`](https://rollupjs.org/guide/en)
 - [`Webpack.js`](https://webpack.js.org/)
